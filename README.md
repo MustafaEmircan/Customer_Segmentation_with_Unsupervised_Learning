@@ -1,5 +1,5 @@
-# Customer Segmentation with Unsupervised Learning
-# Business Problem
+# Customer Segmentation with Unsupervised Learning 📊🔍
+# Business Problem 📈
 **FLO wants to segment its customers and develop marketing strategies based on these segments. To achieve this, customer behaviors will be defined and 
 groups will be created based on clustering within these behaviors.** 🧑‍🤝‍🧑📊
 
